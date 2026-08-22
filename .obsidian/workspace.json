@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "c12e386c4c67c01e",
+    "type": "split",
+    "children": [
+      {
+        "id": "745205436f471c9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d695b7da748752d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber_Security_Library/Cyber Security 101/Module 12 - Defensive Security Tooling/3.REMnux Getting Started.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.REMnux Getting Started"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18b08cee15af5dc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ec5250430b85fc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f47bec60c27a7dff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9e8f4af0b659a174",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d76e15670aae6e69",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "584d877d12ca0bd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3960e2123480b5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eb64ea7821ec06c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8f62d633e728a6a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6fd3a3fed7f4bb06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6da04871ae0ee749",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3274a1c6f523347c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d695b7da748752d1",
+  "lastOpenFiles": [
+    "Cyber_Security_Library/Cyber Security 101/Module 6 - Cryptography/1.Cryptography Basics.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 12 - Defensive Security Tooling/3.REMnux Getting Started.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 5 - Networking/7. Nmap The Basics.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 5 - Networking/5. Wireshark The Basics.md",
+    "Cyber_Security_Library/MertProje.md",
+    "Linkedin.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 4 - Command Line/3.Linux Shells.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 12 - Defensive Security Tooling/2.CAPA The Basics.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 12 - Defensive Security Tooling/1.CyberChef The Basics.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 11 - Security Solutions/4.Vulnerability Scanner Overview.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 12 - Defensive Security Tooling",
+    "Cyber_Security_Library/Cyber Security 101/Module 11 - Security Solutions/3.IDS Fundamentals.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 9 - Offensive Security Tooling/4.SQLMap The Basics.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 1 - Start Your Cyber Security Journey/1.Offensive Security Intro.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 11 - Security Solutions/2.Firewall Fundamentals.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 5 - Networking/1.Networking Concepts.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 11 - Security Solutions/1.Introduction to SIEM.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 10 - Defensive Security/5.Logs Fundamentals.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 11 - Security Solutions",
+    "Cyber_Security_Library/Cyber Security 101/Module 10 - Defensive Security/4.Incident Response Fundamentals.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 10 - Defensive Security/3.Digital Forensics Fundamentals.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 10 - Defensive Security/2.SOC Fundamentals.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 10 - Defensive Security/1.Defensive Security Intro.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 2 - Linux Fundamentals/Linux Fundamentals 1.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 2 - Linux Fundamentals/Linux Fundamentals 2.md",
+    "Cyber_Security_Library/OpenVPN.md",
+    "Cyber_Security_Library/Bash Scripting.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 1 - Start Your Cyber Security Journey/2.Defensive Security Intro.md",
+    "Cyber_Security_Library/Cyber Security 101/Module 10 - Defensive Security",
+    "Cyber_Security_Library/Cyber Security 101/Module 9 - Offensive Security Tooling",
+    "Cyber_Security_Library/Cyber Security 101/Module 8 - Web Hacking",
+    "Pasted image 20260621012902.png",
+    "Cyber_Security_Library/Cyber Security 101/Module 7 - Exploitation Basics",
+    "Cyber_Security_Library/Cyber Security 101/Module 6 - Cryptography",
+    "Cyber_Security_Library/Cyber Security 101/Module 5 - Networking",
+    "Cyber_Security_Library/Cyber Security 101/Module 4 - Command Line",
+    "Cyber_Security_Library/Cyber Security 101/Module 3 - Windows and AD Fundamentals",
+    "Pasted image 20260514153021.png",
+    "Pasted image 20260430212903.png"
+  ]
+}

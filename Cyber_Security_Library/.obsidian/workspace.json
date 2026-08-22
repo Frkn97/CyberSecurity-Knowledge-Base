@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "bf44f2d755b1ae48",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9d60bec8a109812",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ce28d153a6a4ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOC Level 1/Module 5 - Phishing Analysis/5.The Greenholt Phish (Yellow).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.The Greenholt Phish (Yellow)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d414072e5d949242",
+    "type": "split",
+    "children": [
+      {
+        "id": "db9c3e7134cf0efe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cea17038f89eb1e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a4b3c64222541bf0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f93666a90fb81e23",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b10c01bab891bb6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aa8ae75c859f1dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5996034e43ed02f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "create a link.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for create a link"
+            }
+          },
+          {
+            "id": "df173b219800e960",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "create a link.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from create a link"
+            }
+          },
+          {
+            "id": "a9cdaabed14b97ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "316523ac177847e9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a5319f5709a1e0f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "create a link.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of create a link"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9ce28d153a6a4ae7",
+  "lastOpenFiles": [
+    "SOC Level 1/Module 5 - Phishing Analysis/6.Snapped Phish-ing Line (Red).md",
+    "SOC Level 1/Module 5 - Phishing Analysis/5.The Greenholt Phish (Yellow).md",
+    "SOC Level 1/Module 5 - Phishing Analysis/4.Phishing Prevention (Yellow).md",
+    "SOC Level 1/Module 5 - Phishing Analysis/2.Phishing Emails in Action (Yellow).md",
+    "SOC Level 1/Module 5 - Phishing Analysis/3.Phishing Analysis Tools (Yellow).md",
+    "Skill Matrix/Polkit CVE-2021-3560 (Red).md",
+    "SOC Level 1/Module 5 - Phishing Analysis/1.Phishing Analysis Fundamentals (Yellow).md",
+    "SOC Level 1/Module 4 - Cyber Defence Frameworks/6.Eviction (Yellow).md",
+    "SOC Level 1/Module 5 - Phishing Analysis",
+    "SOC Level 1/Module 4 - Cyber Defence Frameworks/5.Summit (Yellow).md",
+    "Bash Scripting.md",
+    "Cyber Security 101/Module 2 - Linux Fundamentals/Linux Fundamentals 3.md",
+    "Untitled.canvas",
+    "Pre Security/Module 7 - Attacks and Defenses/4.Become a Defender.md",
+    "Untitled",
+    "SOC Level 1/Module 4 - Cyber Defence Frameworks/2.Cyber Kill Chain (Green).md",
+    "SOC Level 1/Module 3 - Core SOC Solutions/3.Splunk The Basics (Yellow).md",
+    "SOC Level 1/Module 3 - Core SOC Solutions/2.Introduction to SIEM (Green).md",
+    "SOC Level 1/Module 3 - Core SOC Solutions/1.Introduction to EDR (Yellow).md",
+    "SOC Level 1/Module 4 - Cyber Defence Frameworks/4.MITRE (Green).md",
+    "SOC Level 1/Module 4 - Cyber Defence Frameworks/3.Unified Kill Chain (Green).md",
+    "SOC Level 1/Module 4 - Cyber Defence Frameworks/1.Pyramid Of Pain (Yellow).md",
+    "SOC Level 1/Module 3 - Core SOC Solutions/5.Introduction to SOAR (Green).md",
+    "SOC Level 1/Module 3 - Core SOC Solutions/4.Elastic Stack The Basics (Yellow).md",
+    "OpenVPN.md",
+    "Cyber Security 101/Module 1 - Start Your Cyber Security Journey/2.Defensive Security Intro.md",
+    "SOC Level 1/Module 1 - Blue Team Introduction/2.SOC Role in Blue Team (Green).md",
+    "SOC Level 1/Module 1 - Blue Team Introduction/3.Humans as Attack Vectors (Green).md",
+    "Skill Matrix/Security Awareness (Yeşil).md",
+    "SOC Level 1/Module 4 - Cyber Defence Frameworks",
+    "SOC Level 1/Module 3 - Core SOC Solutions",
+    "SOC Level 1/Module 2 - SOC Team Internals",
+    "SOC Level 1/Module 1 - Blue Team Introduction",
+    "SOC Level 1",
+    "Skill Matrix/Foundational/Entry Level",
+    "Skill Matrix/Foundational",
+    "Skill Matrix"
+  ]
+}
