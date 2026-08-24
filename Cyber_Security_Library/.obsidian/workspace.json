@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC Level 1/Module 5 - Phishing Analysis/1.Phishing Analysis Fundamentals (Yellow).md",
+                "file": "Skill Matrix/SOC Drill.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Phishing Analysis Fundamentals (Yellow)"
+              "title": "SOC Drill"
             }
           }
         ]
@@ -187,13 +187,15 @@
   },
   "active": "9ce28d153a6a4ae7",
   "lastOpenFiles": [
+    "SOC Level 1/Module 5 - Phishing Analysis/7.Phishing Unfolding (Red).md",
+    "Skill Matrix/SOC Drill.md",
+    "SOC Level 1/Module 5 - Phishing Analysis/5.The Greenholt Phish (Yellow).md",
+    "SOC Level 1/Module 5 - Phishing Analysis/1.Phishing Analysis Fundamentals (Yellow).md",
     "SOC Level 1/Module 5 - Phishing Analysis/2.Phishing Emails in Action (Yellow).md",
     "SOC Level 1/Module 5 - Phishing Analysis/3.Phishing Analysis Tools (Yellow).md",
     "SOC Level 1/Module 5 - Phishing Analysis/4.Phishing Prevention (Yellow).md",
-    "SOC Level 1/Module 5 - Phishing Analysis/5.The Greenholt Phish (Yellow).md",
     "SOC Level 1/Module 5 - Phishing Analysis/6.Snapped Phish-ing Line (Red).md",
     "Skill Matrix/Polkit CVE-2021-3560 (Red).md",
-    "SOC Level 1/Module 5 - Phishing Analysis/1.Phishing Analysis Fundamentals (Yellow).md",
     "SOC Level 1/Module 4 - Cyber Defence Frameworks/6.Eviction (Yellow).md",
     "SOC Level 1/Module 5 - Phishing Analysis",
     "SOC Level 1/Module 4 - Cyber Defence Frameworks/5.Summit (Yellow).md",
@@ -214,8 +216,6 @@
     "OpenVPN.md",
     "Cyber Security 101/Module 1 - Start Your Cyber Security Journey/2.Defensive Security Intro.md",
     "SOC Level 1/Module 1 - Blue Team Introduction/2.SOC Role in Blue Team (Green).md",
-    "SOC Level 1/Module 1 - Blue Team Introduction/3.Humans as Attack Vectors (Green).md",
-    "Skill Matrix/Security Awareness (Yeşil).md",
     "SOC Level 1/Module 4 - Cyber Defence Frameworks",
     "SOC Level 1/Module 3 - Core SOC Solutions",
     "SOC Level 1/Module 2 - SOC Team Internals",
