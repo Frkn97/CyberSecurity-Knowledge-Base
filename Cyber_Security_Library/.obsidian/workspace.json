@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC Level 1/Module 6 - Network Traffic Analysis/2.Wireshark The Basics (Yellow).md",
+                "file": "SOC Level 1/Module 6 - Network Traffic Analysis/3.Wireshark Packet Operations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.Wireshark The Basics (Yellow)"
+              "title": "3.Wireshark Packet Operations"
             }
           }
         ]
@@ -187,10 +187,11 @@
   },
   "active": "9ce28d153a6a4ae7",
   "lastOpenFiles": [
+    "SOC Level 1/Module 6 - Network Traffic Analysis/2.Wireshark The Basics (Yellow).md",
+    "SOC Level 1/Module 6 - Network Traffic Analysis/3.Wireshark Packet Operations.md",
     "SOC Level 1/Module 4 - Cyber Defence Frameworks/3.Unified Kill Chain (Green).md",
     "SOC Level 1/Module 4 - Cyber Defence Frameworks/2.Cyber Kill Chain (Green).md",
     "Skill Matrix/SOC Drill.md",
-    "SOC Level 1/Module 6 - Network Traffic Analysis/2.Wireshark The Basics (Yellow).md",
     "SOC Level 1/Module 6 - Network Traffic Analysis/1.Network Traffic Basics (Yellow).md",
     "Cyber Security 101/Module 5 - Networking/5. Wireshark The Basics (Yellow).md",
     "Cyber Security 101/Module 5 - Networking/7. Nmap The Basics.md",
@@ -216,7 +217,6 @@
     "SOC Level 1/Module 3 - Core SOC Solutions/3.Splunk The Basics (Yellow).md",
     "SOC Level 1/Module 3 - Core SOC Solutions/2.Introduction to SIEM (Green).md",
     "SOC Level 1/Module 3 - Core SOC Solutions/1.Introduction to EDR (Yellow).md",
-    "SOC Level 1/Module 4 - Cyber Defence Frameworks/4.MITRE (Green).md",
     "SOC Level 1/Module 4 - Cyber Defence Frameworks",
     "SOC Level 1/Module 3 - Core SOC Solutions",
     "SOC Level 1/Module 2 - SOC Team Internals",
