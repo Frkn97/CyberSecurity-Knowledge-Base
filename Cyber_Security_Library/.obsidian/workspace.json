@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC Level 1/Module 7 - Network Security Monitoring/3.Data Exfiltration Detection (Red).md",
+                "file": "SOC Level 1/Module 7 - Network Security Monitoring/4.Man-in-the-Middle Detection (Red).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.Data Exfiltration Detection (Red)"
+              "title": "4.Man-in-the-Middle Detection (Red)"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "9ce28d153a6a4ae7",
   "lastOpenFiles": [
-    "SOC Level 1/Module 3 - Core SOC Solutions/3.Splunk The Basics (Yellow).md",
     "SOC Level 1/Module 7 - Network Security Monitoring/3.Data Exfiltration Detection (Red).md",
+    "SOC Level 1/Module 7 - Network Security Monitoring/4.Man-in-the-Middle Detection (Red).md",
+    "SOC Level 1/Module 3 - Core SOC Solutions/3.Splunk The Basics (Yellow).md",
     "SOC Level 1/Module 7 - Network Security Monitoring/2.Network Discovery Detection (Yellow).md",
     "SOC Level 1/Module 7 - Network Security Monitoring/1.Network Security Essentials (Red).md",
     "SOC Level 1/Module 6 - Network Traffic Analysis/5.NetworkMiner (Yellow).md",
@@ -214,7 +215,6 @@
     "SOC Level 1/Module 5 - Phishing Analysis/7.Phishing Unfolding (Red).md",
     "SOC Level 1/Module 5 - Phishing Analysis/5.The Greenholt Phish (Yellow).md",
     "SOC Level 1/Module 5 - Phishing Analysis/1.Phishing Analysis Fundamentals (Yellow).md",
-    "SOC Level 1/Module 5 - Phishing Analysis/2.Phishing Emails in Action (Yellow).md",
     "SOC Level 1/Module 5 - Phishing Analysis",
     "Untitled.canvas",
     "Untitled",
