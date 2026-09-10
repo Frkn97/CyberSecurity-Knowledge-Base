@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC Level 1/Module 08 - Web Security Monitoring/02.Detecting Web Attacks.md",
+                "file": "SOC Level 1/Module 08 - Web Security Monitoring/03.Detecting Web Shells (Red).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.Detecting Web Attacks"
+              "title": "03.Detecting Web Shells (Red)"
             }
           }
         ]
@@ -187,8 +187,10 @@
   },
   "active": "9ce28d153a6a4ae7",
   "lastOpenFiles": [
-    "SOC Level 1/Module 08 - Web Security Monitoring/01.Web Security Essentials (Yellow).md",
+    "SOC Level 1/Module 4 - Cyber Defence Frameworks/4.MITRE (Green).md",
+    "SOC Level 1/Module 08 - Web Security Monitoring/03.Detecting Web Shells (Red).md",
     "SOC Level 1/Module 08 - Web Security Monitoring/02.Detecting Web Attacks.md",
+    "SOC Level 1/Module 08 - Web Security Monitoring/01.Web Security Essentials (Yellow).md",
     "SOC Level 1/Module 7 - Network Security Monitoring/6.Snort (Red).md",
     "SOC Level 1/Module 08 - Web Security Monitoring",
     "SOC Level 1/Module 7 - Network Security Monitoring/5.IDS Fundamentals (Yellow).md",
@@ -213,8 +215,6 @@
     "Skill Matrix/Security Awareness (Green).md",
     "Cyber Security 101/Module 5 - Networking/7. Nmap The Basics.md",
     "Pre Security/Module 4 - Computer Fundamentals/3.Client-Server Basics.md",
-    "SOC Level 1/Module 6 - Network Traffic Analysis/2.Wireshark The Basics (Yellow).md",
-    "SOC Level 1/Module 4 - Cyber Defence Frameworks/3.Unified Kill Chain (Green).md",
     "SOC Level 1/Module 6 - Network Traffic Analysis",
     "SOC Level 1/Module 5 - Phishing Analysis",
     "Untitled.canvas",
