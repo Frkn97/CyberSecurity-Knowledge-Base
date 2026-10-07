@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "introduction to siem",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
